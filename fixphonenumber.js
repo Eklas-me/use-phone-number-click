@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Click 'Use Phone Number Instead' on Snapchat with Footer Text
+// @name         Fixed 'Use Phone Number Instead' on Snapchat by Eklas Mahmud
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Automatically clicks 'Use Phone Number Instead' and adds footer text
