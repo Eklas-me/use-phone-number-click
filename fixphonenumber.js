@@ -50,7 +50,7 @@
     footer.style.textAlign = "center";
     footer.style.padding = "10px";
     footer.style.fontSize = "14px";
-    footer.innerText = "Thank You 💕💕😊";
+    footer.innerText = "💕💕Thank You 💕💕";
 
     document.body.appendChild(footer);
   });
