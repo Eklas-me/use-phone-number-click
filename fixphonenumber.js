@@ -2,8 +2,8 @@
 // @name         Fixed 'Use Phone Number Instead' on Snapchat by Eklas Mahmud
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Automatically clicks 'Use Phone Number Instead' and adds footer text
-// @author       You
+// @description  Fixed 'Use Phone Number Instead' on Snapchat by Eklas Mahmud
+// @author       Eklas Mahmud
 // @match        https://accounts.snapchat.com/accounts/v2/login*
 // @grant        none
 // ==/UserScript==
